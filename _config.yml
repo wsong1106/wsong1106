@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Song Wang"
   avatar           : "Profile_image.jpg"
-  bio              : "A second-year PhD student at the Department of Electrical and Computer Engineering at the University of Texas at Austin"
-  location         : "Austin, TX, USA"
+  bio              : "Ph.D student at the University of Texas at Austin"
+  location         : "Austin, TX"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fXxhg5EAAAAJ&hl=en"
-  email            : "song.wang At utexas Dot edu"
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Song-Wang-2204114945"
+  email            : "song.wang@utexas.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
