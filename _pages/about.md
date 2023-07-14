@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Song Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +11,7 @@ Hi, I am a second-year Ph.D. student at the Department of Electrical and Compute
 
 Publications
 ------
-**An NLP approach to identify SDoH-related circumstance and suicide crisis from death investigation narratives** [<i class="fa-solid fa-file"></i>](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocad068/7114858) \\
+**An NLP Approach to Identify SDoH-Related Circumstance and Suicide Crisis from Death Investigation Narratives** [<i class="fa-solid fa-file"></i>](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocad068/7114858) \\
 <u>Song Wang</u>, Yifang Dang, Zhaoyi Sun, Ying Ding, Jyotishman Pathak, Cui Tao, Yunyu Xiao, Yifan Peng \\
 <em>Journal of the American Medical Informatics Association (JAMIA), 2023.</em>
 
