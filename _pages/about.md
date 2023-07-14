@@ -12,8 +12,14 @@ Hi, I am a second-year Ph.D. student at the Department of Electrical and Compute
 
 Selected Publications
 ------
-1. Regist
 
+**An Empirical Study of Using Radiology Reports and Images to Improve ICU-Mortality Prediction** [<i class="fa-solid fa-file"></i>](https://ieeexplore.ieee.org/abstract/document/9565737) \\
+Mingquan Lin, <u>Song Wang</u>, Ying Ding, Lihui Zhao, Fei Wang, Yifan Peng \\
+<em>Proceedings of IEEE the 9th International Conference on Healthcare Informatics (ICHI), 2021.</em>
+
+**Using Radiomics as Prior Knowledge for Thorax Disease Classification and Localization in Chest X-rays** [<i class="fa-solid fa-file"></i>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861661/) \\
+Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>, Ahmed Tewfik, George Shih, Ying Ding, Yifan Peng \\
+<em>Proceedings of the American Medical Informatics Association (AMIA) Annual Symposium, 2021.</em>
 
 News
 ------
