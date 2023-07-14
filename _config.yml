@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Song Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Song Wang"
 description              : &description "Song Wang's personal webpage"
