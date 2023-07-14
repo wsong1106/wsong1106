@@ -9,8 +9,11 @@ redirect_from:
 
 Hi, I am a second-year Ph.D. student at the Department of Electrical and Computer Engineering at The University of Texas at Austin, advised by [Joydeep Ghosh](https://www.ece.utexas.edu/people/faculty/joydeep-ghosh) and [Ying Ding](https://yingding.ischool.utexas.edu/), while working closely with [Yifan Peng](https://pengyifan.com/). My research interests revolve around Natural Language Processing, Multi-modal Representation Learning. Before my Ph.D, I obtained my M.S. in Electrical and Computer Engineering at The University of Texas at Austin in 2021.
 
-Publications
+
+## Publications
 ------
+### 2023 
+
 **An NLP Approach to Identify SDoH-Related Circumstance and Suicide Crisis from Death Investigation Narratives** [<i class="fa-solid fa-file"></i>](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocad068/7114858) \\
 <u>Song Wang</u>, Yifang Dang, Zhaoyi Sun, Ying Ding, Jyotishman Pathak, Cui Tao, Yunyu Xiao, Yifan Peng \\
 <em>Journal of the American Medical Informatics Association (JAMIA), 2023.</em>
@@ -18,6 +21,8 @@ Publications
 **CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays** [<i class="fa-solid fa-file"></i>](https://physionet.org/content/cxr-lt-iccv-workshop-cvamd/1.0.0/) \\
 Gregory Holste, <u>Song Wang</u>, Ajay Jaiswal, Yuzhe Yang, Mingquan Lin, Yifan Peng, Atlas Wang \\
 <em>Shared task for the workshop on Computer Vision for Automated Medical Diagnosis (CVAMD) held in association with the International Conference on Computer Vision (ICCV), 2023.</em>
+
+### 2022
 
 **Trustworthy Assertion Classification through Prompting** [<i class="fa-solid fa-file"></i>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9378721/) \\
 <u>Song Wang</u>, Liyan Tang, Akash Majety, Justin F Rousseau, George Shih, Ying Ding, Yifan Peng \\
@@ -43,6 +48,8 @@ Dana Moukheiber, Saurabh Mahindre, Lama Moukheiber, Mira Moukheiber, <u>Song Wan
 Gregory Holste, <u>Song Wang</u>, Ziyu Jiang, Thomas C Shen, George Shih, Ronald M Summers, Yifan Peng, Zhangyang Wang \\
 <em>Proceedings of Data Augmentation, Labelling, and Imperfections (DALI) held in Conjunction with MICCAI 2022.</em>
 
+### 2021 
+
 **An Empirical Study of Using Radiology Reports and Images to Improve ICU-Mortality Prediction** [<i class="fa-solid fa-file"></i>](https://ieeexplore.ieee.org/abstract/document/9565737) \\
 Mingquan Lin, <u>Song Wang</u>, Ying Ding, Lihui Zhao, Fei Wang, Yifan Peng \\
 <em>Proceedings of IEEE the 9th International Conference on Healthcare Informatics (ICHI), 2021.</em>
@@ -51,7 +58,7 @@ Mingquan Lin, <u>Song Wang</u>, Ying Ding, Lihui Zhao, Fei Wang, Yifan Peng \\
 Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>, Ahmed Tewfik, George Shih, Ying Ding, Yifan Peng \\
 <em>Proceedings of the American Medical Informatics Association (AMIA) Annual Symposium, 2021.</em>
 
-News
+## News
 ------
 **July 2023**: Invited talk "Extracting Suicide Causes and Discovering Annotation Inconsistencies in Death Investigation Notes through NLP Approaches" at [AMIA NLP Working Group](https://amia.org/webinar-library). [<i class="fa-solid fa-video"></i>](https://amia.org/webinar-library/extracting-suicide-causes-and-discovering-annotation-inconsistencies-death)
 
@@ -59,6 +66,6 @@ News
 
 **May 2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
 
-Service
+## Service
 ------
 Reviewer for ACL'2022-2023, AAAI’2022-2023, NeurIPS’21-2023, AMIA’2022-2023, ICHI'2022-2023, IJCAI’2021, Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA), Journal of BMC Digital Health, .
