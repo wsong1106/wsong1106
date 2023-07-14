@@ -58,3 +58,7 @@ News
 **06/2023**: Hosted [The 6th International Workshop on Health Natural Language Processing](https://www.healthnlp.info/) (HealthNLP) at IEEE ICHI 2023, Houston TX.
 
 **05/2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
+
+Service
+------
+Reviewer for ACL'2022-2023, AAAI’2022-2023, NeurIPS’21-2023, AMIA’2022-2023, ICHI'2022-2023, IJCAI’2021, Journal of BMC Digital Health, Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA).
