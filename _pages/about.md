@@ -64,12 +64,12 @@ Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, **Song Wang**, A
 **May 2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
 
 ## Experience
-**Oct 2021 - Now** Graduate Research Intern at ![Shorttok](/images/shorttok-logo.webp){width=50%}[ShortTok, Inc](https://www.shorttok.com/).
+**Oct 2021 - Now** Graduate Research Intern at [ShortTok, Inc](https://www.shorttok.com/).
 
-**May 2021 - Aug 2021** Applied Scientist Intern at Robotics AI team, ![Amazon](/images/amazon-logo.png){width=50%}[Amazon.com, Inc](https://www.amazon.com/).
+**May 2021 - Aug 2021** Applied Scientist Intern at Robotics AI,[Amazon.com, Inc](https://www.amazon.com/).
 
 ## Service
 Reviewer for ACL'2022-2023, AAAI’2022-2023, NeurIPS’21-2023, AMIA’2022-2023, ICHI'2022-2023, IJCAI’2021, Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA), Journal of BMC Digital Health.
 
 ## More about me
-Passionate about food and lifestyle photography, check out my [instagram page](https://www.instagram.com/ssongstable/).
+Passionate about food and lifestyle photography, check out my [Instagram page](https://www.instagram.com/ssongstable/).
