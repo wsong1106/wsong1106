@@ -9,7 +9,6 @@ redirect_from:
 
 Hi, I am a second-year Ph.D. student at the Department of Electrical and Computer Engineering at The University of Texas at Austin, advised by [Joydeep Ghosh](https://www.ece.utexas.edu/people/faculty/joydeep-ghosh) and [Ying Ding](https://yingding.ischool.utexas.edu/), while working closely with [Yifan Peng](https://pengyifan.com/). My research interests revolve around Natural Language Processing, Multi-modal Representation Learning. Before my Ph.D, I obtained my M.S. in Electrical and Computer Engineering at The University of Texas at Austin in 2021.
 
-
 ## Publications
 ------
 ### 2023 
