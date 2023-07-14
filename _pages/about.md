@@ -53,12 +53,12 @@ Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>
 
 News
 ------
-**07/2023**: Invited talk "Extracting Suicide Causes and Discovering Annotation Inconsistencies in Death Investigation Notes through NLP Approaches" at [AMIA NLP Working Group](https://amia.org/webinar-library). [[<i class="fa-solid fa-video"></i>]](https://amia.org/webinar-library/extracting-suicide-causes-and-discovering-annotation-inconsistencies-death)
+**July 2023**: Invited talk "Extracting Suicide Causes and Discovering Annotation Inconsistencies in Death Investigation Notes through NLP Approaches" at [AMIA NLP Working Group](https://amia.org/webinar-library). [<i class="fa-solid fa-video"></i>](https://amia.org/webinar-library/extracting-suicide-causes-and-discovering-annotation-inconsistencies-death)
 
-**06/2023**: Hosted [The 6th International Workshop on Health Natural Language Processing](https://www.healthnlp.info/) (HealthNLP) at IEEE ICHI 2023, Houston TX.
+**June 2023**: Hosted [The 6th International Workshop on Health Natural Language Processing](https://www.healthnlp.info/) (HealthNLP) at IEEE ICHI 2023, Houston TX.
 
-**05/2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
+**May 2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
 
 Service
 ------
-Reviewer for ACL'2022-2023, AAAI’2022-2023, NeurIPS’21-2023, AMIA’2022-2023, ICHI'2022-2023, IJCAI’2021, Journal of BMC Digital Health, Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA).
+Reviewer for ACL'2022-2023, AAAI’2022-2023, NeurIPS’21-2023, AMIA’2022-2023, ICHI'2022-2023, IJCAI’2021, Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA), Journal of BMC Digital Health, .
