@@ -14,14 +14,11 @@ Selected Publications
 ------
 1. Regist
 
-Service
-------
-
 
 News
 ------
-07/2023: Invited talk "**Extracting Suicide Causes and Discovering Annotation Inconsistencies in Death Investigation Notes through NLP Approaches**" at [AMIA NLP Working Group](https://amia.org/webinar-library). [\[Recording\]](https://amia.org/webinar-library/extracting-suicide-causes-and-discovering-annotation-inconsistencies-death)
+**07/2023**: Invited talk "Extracting Suicide Causes and Discovering Annotation Inconsistencies in Death Investigation Notes through NLP Approaches" at [AMIA NLP Working Group](https://amia.org/webinar-library). [\[Recording\]](https://amia.org/webinar-library/extracting-suicide-causes-and-discovering-annotation-inconsistencies-death)
 
-06/2023: Hosted [The 6th International Workshop on Health Natural Language Processing](https://www.healthnlp.info/) (HealthNLP 2023) at IEEE ICHI 2023, Houston TX.
+**06/2023**: Hosted [The 6th International Workshop on Health Natural Language Processing](https://www.healthnlp.info/) (HealthNLP 2023) at IEEE ICHI 2023, Houston TX.
 
-05/2023: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
+**05/2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
