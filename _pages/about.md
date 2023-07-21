@@ -69,7 +69,7 @@ Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>
 **May 2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
 
 ## Service
-Conference Reviewer serving ACL'2022-2023, AAAI’2022-2023, NeurIPS’2021-2023, AMIA’2022-2023, MICCAI'2022-2023, ICHI'2022-2023, IJCAI’2021.
+Conference Reviewer serving ICCV 2023, ACL'2022-2023, AAAI’2022-2023, NeurIPS’2021-2023, AMIA’2022-2023, MICCAI'2022-2023, ICHI'2022-2023, IJCAI’2021.
 
 Journal Reviewer serving Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA), Journal of BMC Digital Health.
 
