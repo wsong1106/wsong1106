@@ -62,6 +62,8 @@ Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>
 **May 2021 - Aug 2021**: Applied Scientist Intern at Robotics AI, [Amazon.com, Inc](https://www.amazon.com/).
 
 ## News
+**Jan 2024**: Excited to join the Journal of the American Medical Informatics Association (JAMIA) [Student Editorial Board (SEB)](https://amia.org/news-publications/journals/jamia/jamia-student-editorial-board). I will serve a two-year term and contribute to the peer-review process for JAMIA.
+
 **July 2023**: Invited talk "Extracting Suicide Causes and Discovering Annotation Inconsistencies in Death Investigation Notes through NLP Approaches" at [AMIA NLP Working Group](https://amia.org/webinar-library). [<i class="fa-solid fa-video"></i>](https://amia.org/webinar-library/extracting-suicide-causes-and-discovering-annotation-inconsistencies-death)
 
 **June 2023**: Hosted [The 6th International Workshop on Health Natural Language Processing](https://www.healthnlp.info/) (HealthNLP) at IEEE ICHI 2023, Houston TX.
@@ -69,9 +71,11 @@ Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>
 **May 2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
 
 ## Service
+2024-2026 [Student Editorial Board](https://amia.org/news-publications/journals/jamia/jamia-student-editorial-board) member of Journal of the American Medical Informatics Association (JAMIA).
+
 Conference Reviewer serving ICCV'2023, ACL'2022-2023, AAAI’2022-2023, NeurIPS’2021-2023, AMIA’2022-2023, MICCAI'2022-2023, ICHI'2022-2023, IJCAI’2021.
 
-Journal Reviewer serving Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA), Journal of BMC Digital Health.
+Journal Reviewer serving Journal of Biomedical Informatics (JBI), Journal of the American Medical Informatics Association (JAMIA), Journal of BMC Digital Health. 
 
 ## More about Me
 Passionate about food and lifestyle photography, check out my [Instagram page](https://www.instagram.com/ssongstable/) and Bon Appétit!
