@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a third-year Ph.D. student at the Department of Electrical and Computer Engineering at The University of Texas at Austin, advised by [Joydeep Ghosh](https://www.ece.utexas.edu/people/faculty/joydeep-ghosh) and [Ying Ding](https://yingding.ischool.utexas.edu/), while working closely with [Yifan Peng](https://pengyifan.com/). My research interests revolve around Natural Language Processing, Multi-modal Representation Learning. Before my Ph.D., I obtained my M.S. in Electrical and Computer Engineering at The University of Texas at Austin in 2021.
+Hi, I am a Ph.D. candidate at the Department of Electrical and Computer Engineering at The University of Texas at Austin, advised by [Joydeep Ghosh](https://www.ece.utexas.edu/people/faculty/joydeep-ghosh) and [Ying Ding](https://yingding.ischool.utexas.edu/), while working closely with [Yifan Peng](https://pengyifan.com/). My research interests revolve around Natural Language Processing, Multi-modal Representation Learning. Before my Ph.D., I obtained my M.S. in Electrical and Computer Engineering at The University of Texas at Austin in 2021.
 
 ## Publications
 ### 2023 
@@ -71,7 +71,7 @@ Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>
 **May 2023**: Served as a committee member at [The Web Conference 2023](https://www2023.thewebconf.org/), Austin TX.
 
 ## Service
-2024-2026 [Student Editorial Board](https://amia.org/news-publications/journals/jamia/jamia-student-editorial-board) member of Journal of the American Medical Informatics Association (JAMIA).
+Serving as 2024-2026 [Student Editorial Board](https://amia.org/news-publications/journals/jamia/jamia-student-editorial-board) for Journal of the American Medical Informatics Association (JAMIA).
 
 Conference Reviewer serving ICCV'2023, ACL'2022-2023, AAAI’2022-2023, NeurIPS’2021-2023, AMIA’2022-2023, MICCAI'2022-2023, ICHI'2022-2023, IJCAI’2021.
 
