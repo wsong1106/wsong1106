@@ -14,7 +14,7 @@ Hi, I am a Ph.D. candidate at the Department of Electrical and Computer Engineer
 
 **Uncovering Misattributed Suicide Causes through Annotation Inconsistency Detection in Death Investigation Notes** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2403.19432) \\
 <u>Song Wang</u>, Yiliang Zhou, Ziqiang Han, Cui Tao, Yunyu Xiao, Ying Ding, Joydeep Ghosh, Yifan Peng.\\
-<em>arXiv preprint, 2023.</em>
+<em>arXiv preprint, 2024.</em>
 
 ### 2023 
 
