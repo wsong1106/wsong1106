@@ -10,6 +10,12 @@ redirect_from:
 Hi, I am a Ph.D. candidate at the Department of Electrical and Computer Engineering at The University of Texas at Austin, advised by [Joydeep Ghosh](https://www.ece.utexas.edu/people/faculty/joydeep-ghosh) and [Ying Ding](https://yingding.ischool.utexas.edu/), while working closely with [Yifan Peng](https://pengyifan.com/). My research interests revolve around Natural Language Processing, Multi-modal Representation Learning. Before my Ph.D., I obtained my M.S. in Electrical and Computer Engineering at The University of Texas at Austin in 2021.
 
 ## Publications
+### 2024
+
+**Uncovering Misattributed Suicide Causes through Annotation Inconsistency Detection in Death Investigation Notes** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2403.19432) \\
+<u>Song Wang</u>, Yiliang Zhou, Ziqiang Han, Cui Tao, Yunyu Xiao, Ying Ding, Joydeep Ghosh, Yifan Peng.\\
+<em>arXiv preprint, 2023.</em>
+
 ### 2023 
 
 **An NLP Approach to Identify SDoH-Related Circumstance and Suicide Crisis from Death Investigation Narratives** [<i class="fa-solid fa-file"></i>](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocad068/7114858) \\
