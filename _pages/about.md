@@ -13,7 +13,7 @@ Hi, I am a Ph.D. candidate at the Department of Electrical and Computer Engineer
 ### 2024
 
 **Towards Long-Tailed, Multi-Label Disease Classification from Chest X-ray: Overview of the CXR-LT Challenge** [<i class="fa-solid fa-file"></i>](https://www.sciencedirect.com/science/article/pii/S136184152400149X) \\
-Gregory Holste, Yiliang Zhou, <u>Song Wang</u>, Ajay Jaiswal, Mingquan Lin, Sherry Zhuge, Yuzhe Yang, Dongkyun Kim, Trong-Hieu Nguyen-Mau, Minh-Triet Tran, Jaehyup Jeong, Wongi Park, Jongbin Ryu, Feng Hong, Arsh Verma, Yosuke Yamagishi, Changhyun Kim, Hyeryeong Seo, Myungjoo Kang, Leo Anthony Celi, Zhiyong Lu, Ronald M. Summers, George Shih, Zhangyang Wang, Yifan Peng.\\ 
+Gregory Holste, Yiliang Zhou, <u>Song Wang</u>, Ajay Jaiswal, Mingquan Lin, Sherry Zhuge, Yuzhe Yang, Dongkyun Kim, Trong-Hieu Nguyen-Mau, Minh-Triet Tran, Jaehyup Jeong, Wongi Park, Jongbin Ryu, Feng Hong, Arsh Verma, Yosuke Yamagishi, Changhyun Kim, Hyeryeong Seo, Myungjoo Kang, Leo Anthony Celi, Zhiyong Lu, Ronald M. Summers, George Shih, Zhangyang Wang, Yifan Peng. \ 
 <em>Medical Image Analysis, 2024.</em>
 
 **Uncovering Misattributed Suicide Causes through Annotation Inconsistency Detection in Death Investigation Notes** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2403.19432) \\
