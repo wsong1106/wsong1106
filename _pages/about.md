@@ -67,7 +67,7 @@ Yan Han, Chongyan Chen, Liyan Tang, Mingquan Lin, Ajay Jaiswal, <u>Song Wang</u>
 <em>Proceedings of the American Medical Informatics Association (AMIA) Annual Symposium, 2021.</em>
 
 ## Experience
-**Oct 2021 - Now**: Graduate Research Intern at [ShortTok, Inc](https://www.shorttok.com/).
+**Oct 2021 - Now**: Applied Scientist Intern at [ShortTok, Inc](https://www.shorttok.com/).
 
 **May 2021 - Aug 2021**: Applied Scientist Intern at Robotics AI, [Amazon.com, Inc](https://www.amazon.com/).
 
