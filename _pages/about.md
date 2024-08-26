@@ -12,6 +12,14 @@ Hi, I am a Ph.D. candidate at the Department of Electrical and Computer Engineer
 ## Publications
 ### 2024
 
+**Closing the Gap between Open-Source and Commercial Large Language Models for Medical Evidence Summarization** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2408.00588) \\
+Gongbo Zhang, Qiao Jin, Yiliang Zhou, <u>Song Wang</u>, Betina R. Idnay, Yiming Luo, Elizabeth Park, Jordan G. Nestor, Matthew E. Spotnitz, Ali Soroush, Thomas Campion, Zhiyong Lu, Chunhua Weng, Yifan Peng\\
+<em>npj Digital Medicine, 2024.</em>
+
+**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2407.17126) \\
+Bernardo Consoli, Xizhi Wu, <u>Song Wang</u>, Xinyu Zhao, Yanshan Wang, Justin Rousseau, Tom Hartvigsen, Li Shen, Huanmei Wu, Yifan Peng, Qi Long, Tianlong Chen, Ying Ding\\
+<em>arXiv preprint, 2024.</em>
+
 **Towards Long-Tailed, Multi-Label Disease Classification from Chest X-ray: Overview of the CXR-LT Challenge** [<i class="fa-solid fa-file"></i>](https://www.sciencedirect.com/science/article/pii/S136184152400149X) \\
 Gregory Holste, Yiliang Zhou, <u>Song Wang</u>, Ajay Jaiswal, Mingquan Lin, Sherry Zhuge, Yuzhe Yang, Dongkyun Kim, Trong-Hieu Nguyen-Mau, Minh-Triet Tran, Jaehyup Jeong, Wongi Park, Jongbin Ryu, Feng Hong, Arsh Verma, Yosuke Yamagishi, Changhyun Kim, Hyeryeong Seo, Myungjoo Kang, Leo Anthony Celi, Zhiyong Lu, Ronald M. Summers, George Shih, Zhangyang Wang, Yifan Peng. \\
 <em>Medical Image Analysis, 2024.</em>
