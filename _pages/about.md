@@ -12,6 +12,10 @@ Hi, I am a Ph.D. candidate at the Department of Electrical and Computer Engineer
 ## Publications
 ### 2024
 
+**A Natural Language Processing Approach to Detect Inconsistencies in Death Investigation Notes Attributing Suicide Circumstances** [<i class="fa-solid fa-file"></i>](https://www.nature.com/articles/s43856-024-00631-7) \\
+<u>Song Wang</u>, Yiliang Zhou, Ziqiang Han, Cui Tao, Yunyu Xiao, Ying Ding, Joydeep Ghosh, Yifan Peng\\
+<em>Communications Medicine, 2024.</em>
+
 **Closing the Gap between Open-Source and Commercial Large Language Models for Medical Evidence Summarization** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2408.00588) \\
 Gongbo Zhang, Qiao Jin, Yiliang Zhou, <u>Song Wang</u>, Betina R. Idnay, Yiming Luo, Elizabeth Park, Jordan G. Nestor, Matthew E. Spotnitz, Ali Soroush, Thomas Campion, Zhiyong Lu, Chunhua Weng, Yifan Peng\\
 <em>npj Digital Medicine, 2024.</em>
